@@ -9,10 +9,10 @@ This project is a no-code AI automation built in Zapier. It:
 - Sends alerts for urgent emails
 
 ## Screenshots
-![Workflow](screenshots/zapier_workflow.png)
-![AI Step](screenshots/ai_step.png)
-![Google Sheet](screenshots/google_sheet.png)
-![Email Alert](screenshots/email_alert.png)
+![Workflow](zapier_workflow.png)
+![AI Step](ai_step.png)
+![Google Sheet](google_sheet.png)
+![Email Alert](email_alert.png)
 
 ## Tools Used
 - [Zapier](https://zapier.com/)
